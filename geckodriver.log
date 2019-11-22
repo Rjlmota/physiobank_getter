@@ -1,0 +1,290 @@
+1574332931748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb5BBlB"
+1574332932385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574332932385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574332932386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574332932386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574332934561	Marionette	INFO	Listening on port 45101
+1574332934578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg/m=MkHyGd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XMgU6d,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,xz7cCd,zbML3c?xjs=s1, line 99: Error: Script terminated by timeout at:
+s_39f.prototype.Gd/<@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg/m=MkHyGd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XMgU6d,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,xz7cCd,zbML3c?xjs=s1:99:119
+s_a.g_@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg:398:210
+s_a.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg:396:385
+s_11.prototype.log@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg/m=MkHyGd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XMgU6d,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,xz7cCd,zbML3c?xjs=s1:111:379
+s_X$f@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg/m=MkHyGd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XMgU6d,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,xz7cCd,zbML3c?xjs=s1:139:201
+s_41.prototype.Ca@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg/m=MkHyGd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XMgU6d,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,xz7cCd,zbML3c?xjs=s1:138:241
+s_Oha@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg:318:230
+s_Mha@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg:319:249
+s_Kha/b<@https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.f1QWpeETIIQ.O/ck=xjs.s.4oNQBOiG24U.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsATMugHw_D8UAAQAdQwAAAFtwQYLhCAhw1iYQAAQ/d=1/dg=2/ct=zgms/rs=ACT90oEbEIVOsYWZOsXBeCk0ekc1bgUqhg:315:277
+
+JavaScript error: https://www.learnpython.org/en/String_Formatting, line 303: TypeError: banners[bannerIndex] is undefined
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 1: Error: Script terminated by timeout at:
+Pd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:1:1
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1574342308360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRPicjj"
+1574342309153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342309153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342309153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342309154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342311463	Marionette	INFO	Listening on port 43313
+1574342311480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574342366841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWkgyEG"
+1574342367469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342367469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342367469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342367469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342369633	Marionette	INFO	Listening on port 40467
+1574342369673	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24037, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1574342421624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletst92w"
+1574342422257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342422257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342422257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342422257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342424375	Marionette	INFO	Listening on port 36283
+1574342424432	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574342537913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ftANr"
+1574342538516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342538516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342538516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342538516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342540583	Marionette	INFO	Listening on port 39227
+1574342540631	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1574342607008	Marionette	INFO	Stopped listening on port 43313
+1574342683311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBpknku"
+1574342683945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342683945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342683945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342683945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342686286	Marionette	INFO	Listening on port 34255
+1574342686325	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24828, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1574342770059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6A4KLJ"
+1574342770711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342770711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342770711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342770711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342773126	Marionette	INFO	Listening on port 41589
+1574342773193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+1574342928138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP5BobB"
+1574342928941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574342928942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574342928942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574342928942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574342931776	Marionette	INFO	Listening on port 46361
+1574342931881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574343002549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileszanSG"
+1574343003420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574343003420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574343003421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574343003421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574343007191	Marionette	INFO	Listening on port 43089
+1574343007276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574343040729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ1h0Xa"
+1574343043147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574343043148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574343043148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574343043148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574343046868	Marionette	INFO	Listening on port 35121
+1574343046911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574343163439	Marionette	INFO	Stopped listening on port 35121
+[Parent 25606, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574343166906	Marionette	INFO	Stopped listening on port 43089
+[Parent 25352, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574343169898	Marionette	INFO	Stopped listening on port 46361
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 25000, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25000, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25000, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574343173386	Marionette	INFO	Stopped listening on port 41589
+1574343192973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMLNXsI"
+1574343193853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574343193854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574343193854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574343193854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574343196343	Marionette	INFO	Listening on port 36289
+1574343196386	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574351826802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler2GJNd"
+1574351827484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574351827484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574351827484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574351827484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574351829616	Marionette	INFO	Listening on port 37407
+1574351829712	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29352, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574352297576	Marionette	INFO	Stopped listening on port 37407
+1574369298941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehgGdTz"
+1574369300231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574369300231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574369300231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574369300231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574369302780	Marionette	INFO	Listening on port 39663
+1574369302861	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574369649653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehb2WLv"
+1574369650347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574369650347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574369650347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574369650347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574369652602	Marionette	INFO	Listening on port 35657
+1574369652693	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574369698988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesHnHdH"
+1574369699620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574369699620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574369699620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574369699620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574369702081	Marionette	INFO	Listening on port 42757
+1574369702102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574369774793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek7AjCI"
+1574369775460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574369775460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574369775461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574369775461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574369778551	Marionette	INFO	Listening on port 45365
+1574369778618	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3792, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 3792, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574414242522	Marionette	INFO	Stopped listening on port 45365
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f97c4a7a8a3f2&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3a713879d5bc68&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3a713879d5bc68&origin=https%3A%2F%2Fwww.pythonforbeginners.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://ecdn.analysis.fi/static/js/fab.js, line 2: TypeError: b.document.body is null
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.pythonforbeginners.com/system/python-sys-argv?cf_action=sync_comments&post_id=1051, line 1: SyntaxError: expected expression, got '<'
+[Parent 3582, Gecko_IOThread] WARNING: pipe error (153): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1574443877123	Marionette	INFO	Stopped listening on port 42757
+1574449640383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile98AT62"
+1574449641104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574449641104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574449641104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574449641105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574449643345	Marionette	INFO	Listening on port 35205
+1574449643395	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1574449648285	Marionette	INFO	Stopped listening on port 35205
+1574449654252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePqKb8H"
+1574449654879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574449654879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574449654880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574449654880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574449656995	Marionette	INFO	Listening on port 34335
+1574449657059	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574449698690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegQhiyY"
+1574449699317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574449699317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574449699318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574449699318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574449701460	Marionette	INFO	Listening on port 40779
+1574449701502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574449924636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecIidFb"
+1574449925282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574449925282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574449925283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574449925283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574449927516	Marionette	INFO	Listening on port 40441
+1574449927547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574449981569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewpJbmM"
+1574449982241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574449982241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574449982241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574449982241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574449984739	Marionette	INFO	Listening on port 44677
+1574449984790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574450074067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKTj3VU"
+1574450075172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574450075173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574450075173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574450075173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574450077938	Marionette	INFO	Listening on port 36749
+1574450077991	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6612, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6612, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574450078507	Marionette	INFO	Stopped listening on port 40779
+[Parent 6968, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6968, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574450079526	Marionette	INFO	Stopped listening on port 40441
+[Parent 7173, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574450083904	Marionette	INFO	Stopped listening on port 44677
