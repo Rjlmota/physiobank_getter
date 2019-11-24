@@ -4,7 +4,7 @@ These are some simple scripts used to request data from Physiobank ATM: https://
 
 ## How to use
 At this point, it still is a little bit harsh and not very user friendly (feel free to improve it, if you want). 
-If you wanna use it, you first need to make sure that you have somethings installed:
+If you wanna use it, you first need to make sure that you have some things installed:
 ### Requirements
 - Selenium: pip install selenium
 - WFDB package on Physiobank website: https://archive.physionet.org/physiotools/wfdb.shtml 
