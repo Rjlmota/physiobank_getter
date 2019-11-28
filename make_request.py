@@ -20,9 +20,13 @@ def make_request_ecgiddb(database_id):
 
 
 def make_request(database_id):
-    output_file_name = database_id[:-1] + ".csv"
+    #output_file_name = database_id + ".csv"
+    output_file_name = database_id[:10] + database_id[11:]
     #request = f"rdsamp -r challange/{database_id} -c -H -f 0 -t 20 -v -ps > output/{output_file_name}"
-    request = f"rdsamp -r challenge/2018/test/{database_id} -c -H -f 0 -t 60 -v -ps -s 12 >output/{output_file_name}"
+    #request = f"rdsamp -r challenge/2018/test/{database_id} -c -H -f 0 -t 60 -v -ps -s 12 >output/{output_file_name}"
+    #request = f"rdsamp -r mitdb/{database_id} -c -H -f 0 -t 60 -v -pd >output/{output_file_name}"
+    request = f"rdsamp -r ptbdb/{database_id} -c -H -f 0 -t 38.400 -v -ps >output/{output_file_name}"
+    
     print("requesting: ", request)
     os.system(request)
 
